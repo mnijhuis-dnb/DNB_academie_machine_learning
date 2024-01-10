@@ -1,4 +1,7 @@
-# Artificial Intelligence and Machine Learning for SupTech
-This repo contains the course material for the Artificial Intelligence and Machine Learning for SupTech course. 
+# Machine Learning – Tools and applications for policy 
+This repo contains the course material for the Machine Learning – Tools and applications for policy course. The course material consists of the slides in the lecture notes folder and the notebooks in the tutorials folder.
+The tuotiral will provide the hands-on experience with some machine learning, while the slides would give the theoretical background, so you also know what you are doing. The hands-on expierence is important because an essential part of Machine Learning is just trying things until they work. 
 
-The tutorials can be found in the tutorial folder.
+For the tutorials you can have a look at [Getting Started — scikit-learn 1.3.2 documentation](https://scikit-learn.org/stable/getting_started.html) to see what the syntax roughly looks like. In addition, it is useful if you know something about data manipulation (i.e. [pandas - Python Data Analysis Library](https://pandas.pydata.org/)). We are going to offer all this in [Jupyter Notebooks](https://jupyter.org/) with which we hope to make it as user-friendly as possible.
+
+The basic training we offer at DNB for Python is through Datacamp: [Introduction to Python Course](https://www.datacamp.com/courses/intro-to-python-for-data-science). The advantage is that you don't need to have Python installed for this. Through DNB academy you can also follow a more advanced course: [Fundamentals of python modeling in finance](https://dnbnl.sharepoint.com/sites/KM-DNBAcademie/SitePages/Fundamentals-of-python-mo.aspx?web=1). In the slides for Lecture 1 there are several (online) textbooks listed that you might find of interest.
