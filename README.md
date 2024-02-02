@@ -1,6 +1,6 @@
 # Machine Learning – Tools and applications for policy 
-This repo contains the course material for the Machine Learning – Tools and applications for policy course. The course material consists of the slides in the lecture notes folder and the notebooks in the tutorials folder.
-The tuotiral will provide the hands-on experience with some machine learning, while the slides would give the theoretical background, so you also know what you are doing. The hands-on expierence is important because an essential part of Machine Learning is just trying things until they work. 
+This repo contains the course material for the "Machine Learning – Tools and applications for policy" course at DNB. The course material consists of the slides in the \slides folder and the notebooks in the \tutorials folder.
+The tuotiral will provide the hands-on experience with some machine learning, while the slides would give the theoretical background, so you also know what you are doing, and are available in presentation and handout form. The tutorials will provide hands-on expierence with machine learning. Such hands-on expierence is important because an essential part of Machine Learning is just trying things until they work. 
 
 For the tutorials you can have a look at [Getting Started — scikit-learn 1.3.2 documentation](https://scikit-learn.org/stable/getting_started.html) to see what the syntax roughly looks like. In addition, it is useful if you know something about data manipulation (i.e. [pandas - Python Data Analysis Library](https://pandas.pydata.org/)). We are going to offer all this in [Jupyter Notebooks](https://jupyter.org/) with which we hope to make it as user-friendly as possible.
 
